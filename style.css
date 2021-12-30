@@ -1,5 +1,16 @@
+body{
+    background: yellowgreen;
+    color: #fff;
+;
+}
+
+p {
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+}
+
 .header{
-    background: red;
+    background: blue;
     color: #fff;
     font-size: 24px;
 ;

@@ -7,11 +7,18 @@ body{
 p {
     font-size: small;
     font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
 }
 
 .header{
     background: blue;
     color: #fff;
-    font-size: 24px;
-;
+    font-size: larger;
+}
+
+.header2 {
+    background-color: blueviolet;
+    color: cornflowerblue;
+    font-style: italic;
+    font-size: large;
 }
